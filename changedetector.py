@@ -1,3 +1,8 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+# Change Detector v1.0
+# Coded by Oğuzhan Karaaslan
+# Twitter: https://twitter.com/oguzhankaraslan
 import hashlib
 import requests
 import contextlib
